@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TriLED Controller</string>
+    <string name="app_name">TriLED Remote</string>
     <string name="lamp_address">Lamp address:</string>
     <string name="lamp_address_example">192.168.0.0</string>
     <string name="status_connecting">Connecting…</string>

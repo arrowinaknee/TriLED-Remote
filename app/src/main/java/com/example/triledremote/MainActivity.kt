@@ -1,4 +1,4 @@
-package com.example.triledcontroller
+package com.example.triledremote
 
 import android.os.Bundle
 import android.os.Looper

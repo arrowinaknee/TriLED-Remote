@@ -1,4 +1,4 @@
-package com.example.triledcontroller
+package com.example.triledremote
 
 import org.junit.Test
 
